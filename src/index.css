@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+:root { font-family:'Plus Jakarta Sans', Arial, sans-serif; color:#26232d; background:#fbfaf8; font-synthesis:none; text-rendering:optimizeLegibility; -webkit-font-smoothing:antialiased; }
+body { margin:0; min-width:320px; }
